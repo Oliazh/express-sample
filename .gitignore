@@ -3,4 +3,5 @@
 # node module
 node_modules/
 
-config/dbCon.js
+config/dbConn.js
+inc/img/users/*
