@@ -11,6 +11,9 @@ header {
 		rgba(125, 185, 232, 0) 100%
 	);
 }
+textarea[name="content"] {
+	height: 500px;
+}
 
 #logo {
 	width: 15vw;
